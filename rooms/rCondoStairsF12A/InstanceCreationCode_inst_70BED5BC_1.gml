@@ -1,0 +1,1 @@
+text[0] = "The sign read 'Floor 13, Stairwell A'"

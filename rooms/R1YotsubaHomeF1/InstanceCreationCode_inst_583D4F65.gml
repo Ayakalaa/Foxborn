@@ -1,0 +1,1 @@
+text[0] = "This will become stairs at some point."

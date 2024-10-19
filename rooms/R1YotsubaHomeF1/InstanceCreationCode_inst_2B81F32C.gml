@@ -1,0 +1,5 @@
+text[0] = "Careful! If you go through this door, stuff may break!"
+text[1] = "It's an area that is still in development and may be glitchy and/or buggy."
+text[2] = "Any bug reports will be helpful."
+text[3] = "..."
+text[4] = "oh, and it's a sudden transition."

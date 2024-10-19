@@ -1,0 +1,1 @@
+text[0] = "The door is locked. You do not live on this floor."
