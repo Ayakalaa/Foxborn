@@ -97,6 +97,7 @@
     {"id":{"name":"title","path":"rooms/title/title.yy",},},
     {"id":{"name":"tsetrCondoHallF13C","path":"rooms/tsetrCondoHallF13C/tsetrCondoHallF13C.yy",},},
     {"id":{"name":"tsetrCondoHallF13R","path":"rooms/tsetrCondoHallF13R/tsetrCondoHallF13R.yy",},},
+    {"id":{"name":"tsetrCondoHallF1C","path":"rooms/tsetrCondoHallF1C/tsetrCondoHallF1C.yy",},},
     {"id":{"name":"YotsubaHomeHallF2","path":"rooms/YotsubaHomeHallF2/YotsubaHomeHallF2.yy",},},
     {"id":{"name":"Textbox_Activate","path":"scripts/Textbox_Activate/Textbox_Activate.yy",},},
     {"id":{"name":"sDefault0025","path":"sounds/sDefault0025/sDefault0025.yy",},},
@@ -172,6 +173,7 @@
     {"roomId":{"name":"Room16","path":"rooms/Room16/Room16.yy",},},
     {"roomId":{"name":"tsetrCondoHallF13R","path":"rooms/tsetrCondoHallF13R/tsetrCondoHallF13R.yy",},},
     {"roomId":{"name":"tsetrCondoHallF13C","path":"rooms/tsetrCondoHallF13C/tsetrCondoHallF13C.yy",},},
+    {"roomId":{"name":"tsetrCondoHallF1C","path":"rooms/tsetrCondoHallF1C/tsetrCondoHallF1C.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
