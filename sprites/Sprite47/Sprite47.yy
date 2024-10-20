@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Sprite47",
   "bboxMode":0,
-  "bbox_bottom":119,
+  "bbox_bottom":199,
   "bbox_left":0,
   "bbox_right":239,
   "bbox_top":0,
@@ -14,8 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"74e62f46-30f4-43c3-a0b4-5f62d26628ea","name":"74e62f46-30f4-43c3-a0b4-5f62d26628ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":24,
-  "gridY":24,
+  "gridX":20,
+  "gridY":20,
   "height":200,
   "HTile":false,
   "layers":[

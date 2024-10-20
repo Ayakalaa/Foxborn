@@ -4,18 +4,18 @@
 
 b_can_switch_dialogs = true
 different_dialogs = [
-["dialog rune 1 and more stuff", "after dialog run 1 and more stuff"], //0
-["dialog run 2 and myself stuff", "dialog run theeee and thy pee"],
-["dialog run 3", "dialog run 3 and more"]//2
+["The door is locked."], //0
+["You realize that continuing to open the door doesn't do anything?", "...nope."],
+["Please stop.", "...no."],//
 ]
 
 // Example usage
 pDirection = 36;
 
 diff_dialog_speaker_sprite = [
-[Sprite34, Lexi_Suspicious],
+[noone],
 [Lexi_Normal, Sprite34],
-[noone, noone]
+[Lexi_Suspicious, Sprite34]
 ]
 
 //show_debug_message("Initial times = " + string(times)); // Check initial value
