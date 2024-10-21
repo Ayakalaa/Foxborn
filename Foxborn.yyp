@@ -46,6 +46,8 @@
     {"$GMFolder":"","%Name":"Susie","folderPath":"folders/Sprites/DialogSprites/Susie.yy","name":"Susie","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"InteractionObjects","folderPath":"folders/Sprites/InteractionObjects.yy","name":"InteractionObjects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Menus","folderPath":"folders/Sprites/Menus.yy","name":"Menus","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Sprites/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sgCondoElevator","folderPath":"folders/Sprites/Objects/sgCondoElevator.yy","name":"sgCondoElevator","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"TileSets","folderPath":"folders/Sprites/TileSets.yy","name":"TileSets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"TextboxFunctions","folderPath":"folders/TextboxFunctions.yy","name":"TextboxFunctions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
