@@ -18,12 +18,14 @@
         {"$GMRInstance":"v1","%Name":"inst_33F757F0_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33F757F0_1","objectId":{"name":"oCondoElevatorOpener","path":"objects/oCondoElevatorOpener/oCondoElevatorOpener.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":326.0,"y":141.0,},
       ],"layers":[],"name":"ElevatorActivator","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Asset_CarpetSquiggles","assets":[],"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Asset_CarpetSquiggles","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Room_TileLayer","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Room_TileLayer","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":39,"SerialiseWidth":69,"TileCompressedData":[
-          -28,1,-41,-2147483648,-28,1,-41,-2147483648,-28,1,-41,-2147483648,-28,7,-41,-2147483648,2,19,26,-3,19,
-          15,26,55,48,49,19,19,9,10,11,26,55,55,19,84,85,-3,19,5,26,19,19,26,19,-41,-2147483648,-7,55,8,60,61,
-          19,19,21,22,23,14,-3,19,2,96,97,-8,19,1,0,-40,-2147483648,-7,67,7,72,73,67,67,33,34,35,-4,67,2,108,109,
-          -8,67,-41,-2147483648,-11,40,3,45,46,47,-14,40,-41,-2147483648,-28,28,-41,-2147483648,-28,1,-41,-2147483648,
-          -28,1,-41,-2147483648,-28,1,-1904,-2147483648,
+    {"$GMRTileLayer":"","%Name":"Room_TileLayer","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Room_TileLayer","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":25,"SerialiseWidth":29,"TileCompressedData":[
+          -87,1,-29,7,2,19,26,-3,19,19,26,55,48,49,19,19,9,10,11,26,55,55,19,84,85,12,13,19,26,-3,19,2,26,19,-7,
+          55,8,60,61,19,19,21,22,23,14,-3,19,4,96,97,24,25,-7,19,-7,67,7,72,73,67,67,33,34,35,-4,67,4,108,109,
+          36,37,-7,67,-11,40,3,45,46,47,-15,40,-12,28,1,76,-3,16,1,75,-12,28,-12,1,1,15,-3,16,1,17,-24,1,1,15,
+          -3,52,1,17,-24,1,1,15,-3,52,1,17,-24,1,1,15,-3,52,1,17,-24,1,1,15,-3,52,1,17,-24,1,1,15,-3,52,1,17,-16,
+          1,1,3,-7,4,1,88,-3,52,1,87,-7,4,1,5,-8,1,1,15,-19,52,1,17,-8,1,1,15,-19,52,1,17,-8,1,1,15,-19,52,1,17,
+          -8,1,1,15,-19,52,1,17,-8,1,1,15,-19,52,1,17,-8,1,1,15,-19,52,1,17,-8,1,1,27,-8,28,3,76,16,75,-8,28,1,
+          29,-17,1,3,27,28,29,-42,1,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":false,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -43,10 +45,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":500,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":580,
   },
   "sequenceId":null,
   "views":[

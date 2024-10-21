@@ -128,6 +128,7 @@
     {"id":{"name":"sLexingtonDown","path":"sprites/sLexingtonDown/sLexingtonDown.yy",},},
     {"id":{"name":"sLexingtonLeft","path":"sprites/sLexingtonLeft/sLexingtonLeft.yy",},},
     {"id":{"name":"sLexingtonRight","path":"sprites/sLexingtonRight/sLexingtonRight.yy",},},
+    {"id":{"name":"sLexingtonUp_1","path":"sprites/sLexingtonUp_1/sLexingtonUp_1.yy",},},
     {"id":{"name":"sLexingtonUp","path":"sprites/sLexingtonUp/sLexingtonUp.yy",},},
     {"id":{"name":"sMaiDown_1","path":"sprites/sMaiDown_1/sMaiDown_1.yy",},},
     {"id":{"name":"sMaiDown","path":"sprites/sMaiDown/sMaiDown.yy",},},
