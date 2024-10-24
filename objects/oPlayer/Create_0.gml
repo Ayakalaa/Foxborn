@@ -23,6 +23,11 @@ debug_spd = 5;
 //Direction Variable
 pDirection = 0;
 
+//paths
+isMovingAlongPath = false;
+pathToFollow = noone;
+path_running = 0;
+
 
 //global variables, exist across rooms
 global.FloorLevel = 13;

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"walls",
+  "%Name":"PathActivator",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"walls",
+  "name":"PathActivator",
   "overriddenProperties":[],
   "parent":{
     "name":"Interact",
@@ -31,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWall",
-    "path":"sprites/sWall/sWall.yy",
+    "name":"Sprite51",
+    "path":"sprites/Sprite51/Sprite51.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -3,6 +3,7 @@
 
 //Changes for "EXIT" (Image 0)
 
+
 if image_index = 0 and (keyboard_check_pressed(vk_up)) {
 	image_index = 1;
 }  else if image_index = 0 and (keyboard_check_pressed(vk_enter)) {

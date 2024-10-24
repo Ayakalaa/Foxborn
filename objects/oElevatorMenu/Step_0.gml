@@ -1,11 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if place_meeting(x,y,oPlayer) and oPlayer.can_move && (keyboard_check_pressed(vk_enter)) {
-	room_goto(targetroom);
+if place_meeting(x,y,oPlayer) and oPlayer.can_move = true && (keyboard_check_pressed(vk_enter)) {
+	room_goto(R8CondoElevatorSelection);
 	oPlayer.can_move = false;
-} //else if (place_meeting(x,y,oPlayer) && (keyboard_check_pressed(vk_enter)) && Object19.image_index == 10) {
-	//Object19.open = false;
-	//Object19.image_speed = 1;
-//}
+}
 
